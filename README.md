@@ -1,21 +1,34 @@
-# BudgetTrackers
+# Budget Tracker
 
 
 
 [![GitHub](https://img.shields.io/github/license/bettycode/BUDGETTRACKERS?logo=MIT&style=plastic)](https://github.com/BB/BUDGETTRACKERS)
 
 # Deployed link:-
-
+(https://aqueous-taiga-08169.herokuapp.com/)
 
 # Description
 
+User will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
+Offline Functionality:
+
+
+* Enter deposits offline
+
+
+* Enter expenses offline
+
+
+When brought back online:
+
+* Offline entries should be added to tracker.
 
 #
 
-![img]
+![img](assets/budget0.png)
 
 #
-![img]
+![img](assets/budget1.gif)
 
 # Table of Contents
 
@@ -70,4 +83,3 @@ To run tests, you need to run the following command:
 
 * Email: betty.haile.us@gmail.com
 
-## youtube video link:
